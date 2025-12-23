@@ -1,12 +1,12 @@
-# ❤️ Heart Failure Survival Prediction & Analysis
+# Heart Failure Survival Prediction & Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on predicting patient survival outcomes in heart failure cases using clinical and demographic variables. The goal is to leverage machine learning techniques to identify key risk factors associated with mortality and support early clinical decision-making.
 
 The analysis combines exploratory data analysis, predictive modeling, and model evaluation to assess survival risk in heart failure patients.
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze clinical features associated with heart failure survival
 
@@ -16,7 +16,7 @@ The analysis combines exploratory data analysis, predictive modeling, and model 
 
 - Demonstrate end-to-end healthcare analytics workflow
 
-## 🧠 Analytical Approach
+## Analytical Approach
 
 ### Data Understanding & Cleaning
 
@@ -46,7 +46,7 @@ The analysis combines exploratory data analysis, predictive modeling, and model 
 
 - Compared model behavior and interpretability
 
-## 🤖 Models Developed
+## Models Developed
 
 The following machine learning models were implemented and evaluated:
 
@@ -60,7 +60,7 @@ The following machine learning models were implemented and evaluated:
 
 These models help balance interpretability and predictive performance, which is critical in healthcare applications.
 
-## 📊 Key Insights & Findings
+## Key Insights & Findings
 
 Clinical features such as ejection fraction, serum creatinine, and age showed strong association with survival outcomes.
 
@@ -70,7 +70,7 @@ Ensemble methods demonstrated improved stability over single estimators.
 
 Results highlight the potential of ML models to assist clinicians in identifying high-risk patients early.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ```
 Python
@@ -83,7 +83,7 @@ Scikit-learn – machine learning models & evaluation
 
 Jupyter Notebook – analysis environment
 ```
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 heart-failure-survival-prediction/
@@ -118,7 +118,7 @@ jupyter notebook
 notebooks/Heart_Failure_Survival_Prediction_and_Analysis.ipynb
 ```
 
-## 📌 Impact & Relevance
+## Impact & Relevance
 
 - Demonstrates healthcare-focused machine learning for clinical risk prediction.
 
@@ -128,7 +128,7 @@ notebooks/Heart_Failure_Survival_Prediction_and_Analysis.ipynb
 
 - Emphasizes responsible use of predictive models in medical decision-support contexts.
 
-## ⚠️ Limitations & Future Work
+## Limitations & Future Work
 
 ### Limitations
 
@@ -147,6 +147,6 @@ notebooks/Heart_Failure_Survival_Prediction_and_Analysis.ipynb
 
 - Extend the work into a clinical decision-support dashboard for real-world use.
 
-## 👤 Author
+## Author
 
 Created by Rameswari Mishra
